@@ -25,6 +25,19 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+
+#### Technologies
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
  
   [![Stats](https://github-readme-stats.vercel.app/api?username=explicitworkload&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=explicitworkload&show_icons=true&theme=radical)&nbsp; 
 
@@ -54,4 +67,4 @@ if __name__ == '__main__':
     me = explicitworkload()
     print(me)
 
-```python
+```
