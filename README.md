@@ -29,7 +29,7 @@
   #### Technologies
   ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
   ![Google Cloud](https://img.shields.io/badge/-Google-000?&logo=Google-Cloud)
-  ![Google Cloud](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?logo=microsoft-azure)
   ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
   ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
