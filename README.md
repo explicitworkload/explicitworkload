@@ -28,10 +28,12 @@
  
   [![Stats](https://github-readme-stats.vercel.app/api?username=explicitworkload&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=explicitworkload&show_icons=true&theme=radical)&nbsp; 
 
+```python
 class explicitworkload:
 
     def __init__(self):
         self.username = 'explicitworkload'
+        self.name = 'explicitworkload'
         self.position = 'VMware Tanzu Solution Architect & Office of CTO Ambassador'
         self.web = 'https://kubernetes.day'
         self.cv = 'https://kubernetes.day/resume'
@@ -51,3 +53,5 @@ class explicitworkload:
 if __name__ == '__main__':
     me = explicitworkload()
     print(me)
+
+```python
