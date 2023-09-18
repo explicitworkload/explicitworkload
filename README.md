@@ -40,8 +40,6 @@
   ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
- 
-  [![Stats](https://github-readme-stats.vercel.app/api?username=explicitworkload&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=explicitworkload&show_icons=true&theme=radical)&nbsp; 
 
 ```python
 class explicitworkload:
