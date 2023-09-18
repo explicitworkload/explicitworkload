@@ -32,20 +32,17 @@
 class RafnixG:
 
     def __init__(self):
-        self.username = 'rafnixg'
-        self.name = 'Rafnix Guzmán'
-        self.position = 'Python Software Developer'
-        self.web = 'https://rafnixg.dev'
-        self.blog = 'https://blog.rafnixg.dev'
-        self.cv = 'https://rafnixg.dev/resume'
-        self.twitter = '@rafnixg'
+        self.username = 'explicitworkload'
+        self.position = 'VMware Tanzu Solution Architect & Office of CTO Ambassador'
+        self.web = 'https://kubernetes.day'
+        self.cv = 'https://kubernetes.day/resume'
         self.code = {
-            'backend': ['Python', 'Odoo', 'Flask', 'Django', 'FastAPI', 'NodeJS', 'PHP'],
+            'backend': ['PHP', 'Django', 'Java', 'C#'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
-            'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writer']
+            'devops': ['Tanzu Kubernetes Grid', 'Tanzu Application Platform', 'vSphere with Tanzu', 'Docker', 'Podman', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
+            'frontend': ['HTML5', 'CSS3', 'JavaScript', 'ReactJS', 'Boostrap'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Nginx'],
+            'misc': ['TDD', 'ML']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
@@ -53,9 +50,6 @@ class RafnixG:
         return f'{self.name} | {self.position}'
 
 
-if __name__ == '__main__':
-    me = RafnixG()
-    print(me)
 
 
 
