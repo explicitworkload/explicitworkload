@@ -46,15 +46,8 @@ class explicitworkload:
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
     def __str__(self):
-        return f'{self.name} | {self.position}'
+        return f'{self.username} | {self.position}'
 
-
-
-
-
-<!--
-**explicitworkload/explicitworkload** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
+if __name__ == '__main__':
+    me = explicitworkload()
+    print(me)
