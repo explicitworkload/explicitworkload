@@ -69,4 +69,3 @@ if __name__ == '__main__':
 
 ```
 
-Hello everyone! My name is Pororo
