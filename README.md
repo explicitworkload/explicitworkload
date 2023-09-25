@@ -6,7 +6,7 @@
 - 💬 Ask me about Tanzu, Cloud Native.
 - 📫 How to reach me: @unagie on telegram, there's also email. johngoh@live.jp.
 - 😄 Pronouns: he/him/they
-- ⚡ Fun fact: I love travelling the world, observing various cultures and how people live their life. I love fixing electronics (broken or not), and never turned back on my interest. Currently building a (dangerous) UV steriliser with UV-C.
+- ⚡ Fun fact: I love travelling the world, observing various cultures and how people live their life. I love fixing electronics (broken or not), and never turned back on my interest. I play the guitar, ride motorcycles, anything moves! Currently building a (dangerous) UV steriliser with UV-C.
 
   #### 📫 How to reach me:
  
