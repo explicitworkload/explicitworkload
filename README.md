@@ -47,7 +47,7 @@ class explicitworkload:
     def __init__(self):
         self.username = 'explicitworkload'
         self.name = 'explicitworkload'
-        self.position = 'VMware Tanzu Solution Architect & Office of CTO Ambassador'
+        self.position = 'Red Hat Associate Principal Solution Architect'
         self.web = 'https://kubernetes.day'
         self.cv = 'https://kubernetes.day/resume'
         self.code = {
