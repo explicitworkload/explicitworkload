@@ -4,13 +4,12 @@
 - 👯 I’m looking to collaborate on Java/Spring and its adjacent communities (Let's go cloud native!)
 - 🤔 I’m looking for help with Kotlin, Xamarin, ReactJS.
 - 💬 Ask me about OpenShift, Cloud Native.
-- 📫 How to reach me: @unagie on telegram, there's also email. johngoh@live.jp.
 - 😄 Pronouns: he/him/they
-- ⚡ Fun fact: I love travelling the world, observing various cultures and how people live their life. I love fixing electronics (broken or not), and never turned back on my interest. I play the guitar, ride motorcycles, anything moves! Currently building a (dangerous) UV steriliser with UV-C.
+- ⚡ Fun fact: I love travelling the world, observing various cultures and how people live their life. I love fixing electronics (broken or not), and never turned back on my interest. I play the guitar, ride motorcycles, anything moves! Currently building something!
 
   #### 📫 How to reach me:
  
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gohjohn/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/johngoh/)  &nbsp; <a href="mailto:johngoh@live.jp"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gohjohn/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](#/)  &nbsp; <a href="mailto:#"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
  
   #### 👨💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
